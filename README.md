@@ -1,10 +1,10 @@
 ## Olá! Sou Vinicius Andrade
 
 
-- 🔭 Fazendo faculdade de Analise e Desenvolvimento de Sistemas
+- 🔭 Faculdade de Análise e Desenvolvimento de Sistemas
 -     Hospital Universitário Evangélico Mackenzie
-- 🌱 Estou aprendendo HTML, CSS, JAVASCRIPT
-- 📫 Contate-me no e-mail: vinicius1202.a@gmail.com
+- 🌱 Aprendendo Desenvolvimento de Aplicativos Móveis
+- 📫 Contate-me no e-mail: vinicius1202.a@gmail.com ou vpandrade.2002@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
