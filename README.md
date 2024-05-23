@@ -4,7 +4,7 @@
 - 🔭 Faculdade de Análise e Desenvolvimento de Sistemas
 -     Hospital Universitário Evangélico Mackenzie
 - 🌱 Aprendendo Desenvolvimento de Aplicativos Móveis
-- 📫 Contate-me no e-mail: vinicius1202.a@gmail.com ou vpandrade.2002@gmail.com
+- 📫 Contate-me no e-mail: vinicius1202.a@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
